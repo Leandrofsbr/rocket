@@ -5,7 +5,7 @@ let socialMediaLinks = {
     youtube: 'watch?v=sTPXkVKwU24',
     twitter: 'leandrofsbr',
     instagram: 'leandrofs.design',
-    facebook: 'leandrofsbr',
+    facebook: 'leandrofs.net',
 }
 
 function changeSocialMediaLinks(){
